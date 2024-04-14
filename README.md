@@ -9,7 +9,7 @@
 🌱 &nbsp;Me gusta aprender sobre patrones de diseño y arquitectura para desarrollar soluciones de gran calidad.\
 ✍️ &nbsp;Mi tiempo libre lo utilizo para las cosas que más me gustan como jugar videojuegos, estar con mis amigos o familiares y aprender cosas de mi interés.\
 ✉️ &nbsp;Puedes contactarme con mi correo luis.felipe.fuentes.diaz@gmail.com.\
-📄 &nbsp;Por favor hecha un vistazo a mi portafolio en donde encontraras más información de mi ![portafolio](https://luisfuentesdiaz.github.io/portafolio/#/)!
+📄 &nbsp;Por favor hecha un vistazo a mi web/portafolio en donde encontraras más información de mi trabajo [portafolio](https://luisfuentesdiaz.github.io/portafolio/#/)!
 
 ### 🛠 &nbsp;Tecnologias
 
