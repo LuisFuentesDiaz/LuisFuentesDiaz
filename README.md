@@ -1,8 +1,7 @@
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+![Luis Felipe Fuentes Diaz Banner](./assets/bannergit.jpg)
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
+
 <img alt="Night Coding" src="https://media.tenor.com/O3w6CwTqrs8AAAAi/peach-goma.gif" width="150px" align="right"/>
 
 💡 &nbsp;Me gusta explorar tecnologías nuevas.\
